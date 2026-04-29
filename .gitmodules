@@ -1,0 +1,6 @@
+[submodule "ecom-backend"]
+	path = ecom-backend
+	url = git@github.com:B33pl0p/ai-ecom-backend.git
+[submodule "ai-ecom-frontend"]
+	path = ai-ecom-frontend
+	url = git@github.com:B33pl0p/ai-ecom-frontend.git
