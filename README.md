@@ -1,4 +1,8 @@
-# AI Ecommerce Product
+# AI Powered Ecommerce Product
+
+This is a demo version of my original college project:
+
+- Original project: https://github.com/B33pl0p/ai-powered-ecommerce
 
 AI Ecommerce is a full-stack, AI-powered product search experience. It combines a Next.js storefront with a FastAPI backend that serves products from MongoDB and supports semantic text search, visual image search, Nepali query normalization, and detection-assisted clothing search.
 
